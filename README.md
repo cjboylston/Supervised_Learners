@@ -1,7 +1,7 @@
-#Supervised Learning Comparison
-Written by Christian Boylston (cboylston3)
+# Supervised Learning Comparison
+by Christian Boylston
 
-System Requirements:
+## System Requirements:
     
     - python 3.7
     - scikit-learn
@@ -9,7 +9,7 @@ System Requirements:
     - pandas
     - numpy
 
-Files:
+## Files:
     
     - adult.data.csv : A data set containing information from the 1994 US Census that enables a classification problem
     to label an individual as making greating than $50,000/year or not
@@ -24,7 +24,7 @@ Files:
     - cboylston3-analysis.pdf : an analysis of the results of the five different supervised learning algorithms and their
     performances on the datasets.
 
- Directions:
+## Directions:
     
     1) Ensure that adult.data.csv and phish.data.csv are in the same directory as SupervisedML.py when SupervisedML.py is
     run.
